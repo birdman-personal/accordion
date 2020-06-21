@@ -7,4 +7,4 @@ Accordion
 
 Accordion Using HTML CSS & JQuery
 
-![](/assets/images/screen.gif)
+![](/assets/screen.gif)
